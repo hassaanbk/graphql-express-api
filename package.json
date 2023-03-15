@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "creating a graphql express server for courses and professors",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassaanbk/graphql-express-api.git"
+  },
+  "author": "Hassaan bin Khalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassaanbk/graphql-express-api/issues"
+  },
+  "homepage": "https://github.com/hassaanbk/graphql-express-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  }
+}
